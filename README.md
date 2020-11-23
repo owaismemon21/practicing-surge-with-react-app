@@ -2,8 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Surge URL
-[http://practicing-surge-with-react-by-owaismemon.surge.sh/]
+Surge URL\
+[http://practicing-surge-with-react-by-owaismemon.surge.sh/](http://practicing-surge-with-react-by-owaismemon.surge.sh/) to view the deployed React App on surge.
 
 ## Available Scripts
 
